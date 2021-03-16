@@ -1,0 +1,4 @@
+eureka:
+  instance:
+    prefer-ip-address: false
+    hostname: dev-ms-masterdata.reunico.com
